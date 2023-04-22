@@ -1,23 +1,20 @@
-# Titel...
+# PowerShell Tutorials
 
-Languages:
-- [english](./readme.md)
-- [deutsch](./readme_de.md)
+Symbolbedeutung:<br />
+👉 Benutzeraktivität<br />
+⚡ Schneller Weg
 
-Symbolic meaning:<br />
-👉 User activity here<br />
-⚡ Fast way
+## Inhaltsverzeichnis
 
-## Table of contents
+[PS 001 - PowerShell Core - Installation auf Windows](https://github.com/bugfrei/ps001-ps-core_install_win.git/readme_de.md)
 
-## Clone this Repository
+## Das Repository klonen
 
-See [here](./clone-this-repo.md).
+Siehe [hier](./clone-this-repo_de.md).
 
-## Other usefull tutorials
+## Andere nützliche Tutorials
 
-- [The basics of PowerShell](https://github.com/bugfrei/ps-powershell-basics/)
-- [Interactiv PS Github Tutorial, german only](https://github.com/bugfrei/Git-Tutorial)
+Teilweise mit ähnlichen Inhalten - Aber ohne passende TicToc Videos:
 
-More to come.
-
+- [PowerShell Basics](https://github.com/bugfrei/ps-powershell-basics/)
+- [Interaktives PS Github Tutorial, nur deutsch](https://github.com/bugfrei/Git-Tutorial)
