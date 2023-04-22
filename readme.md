@@ -12,9 +12,6 @@ Symbolbedeutung:<br />
 
 Siehe [hier](./clone-this-repo_de.md).
 
-## Andere nützliche Tutorials
+## iTea Tutorial
 
-Teilweise mit ähnlichen Inhalten - Aber ohne passende TicToc Videos:
-
-- [PowerShell Basics](https://github.com/bugfrei/ps-powershell-basics/)
-- [Interaktives PS Github Tutorial, nur deutsch](https://github.com/bugfrei/Git-Tutorial)
+Alle Themenbereiche meiner Tutorials findest Du [hier](https://github.com/bugfrei/itea.git)
