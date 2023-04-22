@@ -6,7 +6,7 @@ Symbolbedeutung:<br />
 
 ## Inhaltsverzeichnis
 
-[PS 001 - PowerShell Core - Installation auf Windows](https://github.com/bugfrei/ps001-ps-core_install_win/blob/main/readme_de.md)
+[PS 001 - PowerShell Core - Installation auf Windows](https://github.com/bugfrei/ps001-ps-core_install_win/blob/main/readme.md)
 
 ## Das Repository klonen
 
