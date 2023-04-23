@@ -13,6 +13,6 @@ Symbolbedeutung:<br />
 
 Siehe [hier](./clone-this-repo_de.md).
 
-## iTea Tutorial
+## iTea Tutorials
 
 Alle Themenbereiche meiner Tutorials findest Du [hier](https://github.com/bugfrei/itea.git)
